@@ -1,0 +1,3 @@
+//  1.18
+const EventEmitter = require('events');
+EventEmitter -> name with uppercase -> means that it is the name of class
